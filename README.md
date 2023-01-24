@@ -1,3 +1,6 @@
+# Dylan Eggemeyer
+# Module 2 Assignment
+
 # streaming-02-multiple-processes
 
 > Multiple processes accessing a shared resource concurrently
